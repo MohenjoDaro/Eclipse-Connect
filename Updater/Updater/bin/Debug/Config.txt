@@ -1,0 +1,5 @@
+URL=https://www.eclipseorigins.com/topic/86170/er-version-history-and-changelog
+URLPrefix=https://drive.google.com/
+Ext=.zip
+Version=1.8.2
+ExtLoc=Eclipse Renewal
